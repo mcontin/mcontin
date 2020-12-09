@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**mcontin/mcontin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇳🇱 Located in Amsterdam, heart still in Italy
 
-Here are some ideas to get you started:
+🗺 Remote work supporter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Building cool TV services at [24i](https://www.24i.com)
+
+👨‍🎨 Sometimes can design
+
+🇮🇹 Native Italian, fluid English
+
+⏳ Hobbies include cooking, snowboarding, videogames & trying out hobbies
+
+📱 Main platform: iOS (3+ yrs)
+
+⚛ Experience with: Android, Java, Kotlin, Node.js, React, Vue.js, TypeScript (no job offers)
+
+🕵️ Find me on [LinkedIn](https://www.linkedin.com/in/mattia-contin) & [Twitter](https://twitter.com/mattiacontin)
