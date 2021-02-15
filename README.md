@@ -1,5 +1,7 @@
 ### Hi 👋
 
+📱 iOS Software engineer
+
 🇮🇹 Located in Italy
 
 🗺 Remote work supporter
@@ -11,8 +13,6 @@
 🇮🇹 Native Italian, fluent English
 
 ⏳ Hobbies include cooking, snowboarding, videogames & trying out hobbies
-
-📱 Main platform: iOS (3.5 yrs)
 
 ⚛ Experience with: Android, Java, Kotlin, Node.js, React, Vue.js, TypeScript (no job offers)
 
