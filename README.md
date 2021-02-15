@@ -2,15 +2,13 @@
 
 📱 iOS Software engineer
 
-🇮🇹 Located in Italy
+🇮🇹 Based in Italy, fluent English
 
 🗺 Remote work supporter
 
 🔭 Looking for my next gig
 
 👨‍🎨 Sometimes can design
-
-🇮🇹 Native Italian, fluent English
 
 ⏳ Hobbies include cooking, snowboarding, videogames & trying out hobbies
 
