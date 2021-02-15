@@ -1,18 +1,18 @@
 ### Hi 👋
 
-🇳🇱 Located in Amsterdam, heart still in Italy
+🇮🇹 Located in Italy
 
 🗺 Remote work supporter
 
-🔭 Building cool TV services at [24i](https://www.24i.com)
+🔭 Looking for my next gig
 
 👨‍🎨 Sometimes can design
 
-🇮🇹 Native Italian, fluid English
+🇮🇹 Native Italian, fluent English
 
 ⏳ Hobbies include cooking, snowboarding, videogames & trying out hobbies
 
-📱 Main platform: iOS (3+ yrs)
+📱 Main platform: iOS (3.5 yrs)
 
 ⚛ Experience with: Android, Java, Kotlin, Node.js, React, Vue.js, TypeScript (no job offers)
 
