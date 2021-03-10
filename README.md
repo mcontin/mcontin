@@ -6,7 +6,7 @@
 
 🗺 Remote work supporter
 
-🔭 Looking for my next gig
+💻 iOS Engineer @ [Healthy Virtuoso](https://www.healthyvirtuoso.com/)
 
 👨‍🎨 Sometimes can design
 
