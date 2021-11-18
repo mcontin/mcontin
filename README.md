@@ -10,7 +10,7 @@
 
 👨‍🎨 Sometimes can design
 
-⏳ Hobbies include cooking, snowboarding, videogames & trying out hobbies
+⏳ Hobbies include cooking, videogames, guitar & trying out hobbies
 
 ⚛ Experience with: Android, Java, Kotlin, Node.js, React, Vue.js, TypeScript (no job offers)
 
