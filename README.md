@@ -12,6 +12,6 @@
 
 ⏳ Hobbies include cooking, videogames, guitar & trying out hobbies
 
-⚛ Tech I play around with: Android, Kotlin, Node.js, React, Vue.js, TypeScript (no job offers)
+⚛ Other tech I play around with: Android, Kotlin, Node.js, React, Vue.js, TypeScript (no job offers)
 
 🕵️ Find me on [LinkedIn](https://www.linkedin.com/in/mattia-contin) & [Twitter](https://twitter.com/mattiacontin)
