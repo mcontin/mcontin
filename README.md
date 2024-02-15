@@ -14,4 +14,4 @@
 
 👨‍🎨 Ask me what my latest unfinished project is about
 
-🕵️ Find me on [LinkedIn](https://www.linkedin.com/in/mattia-contin) & [Twitter](https://twitter.com/mattiacontin)
+🕵️ Find me on [LinkedIn](https://www.linkedin.com/in/mattia-contin)
